@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OhznP7tXRt7NmPC2/hkqJt7aSQBiK3q0yEi+rjs6IQUZmzXamXofri/rz+RJcoaOoIIVc1Abdq4JslzrOYAkNQ==",
+  "success": true,
+  "projectFilePath": "D:\\07.SOURCE\\CodigoEstudiante\\060_ProyectoCrearApiWebNet6-master\\Utilidades\\Utilidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VilelaGuzman\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\VilelaGuzman\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\VilelaGuzman\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
